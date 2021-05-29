@@ -107,4 +107,8 @@ public class DemoController {
         return null;
     }
 
+    public static void main(String[] args) {
+        return;
+    }
+
 }
