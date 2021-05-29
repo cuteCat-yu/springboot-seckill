@@ -100,4 +100,8 @@ public class DemoController {
 //        return Result.success(user);
 //    }
 
+    public static void main(String[] args) {
+        System.out.println("test!");
+    }
+
 }
