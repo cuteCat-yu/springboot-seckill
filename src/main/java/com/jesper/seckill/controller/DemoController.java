@@ -100,18 +100,6 @@ public class DemoController {
 //        return Result.success(user);
 //    }
 
-    @RequestMapping("/db/get")
-    @ResponseBody
-    public String getGoodsDetail(String gid){
-        System.out.println("b");
-        return null;
-    }
-
-    public static void main(String[] args) {
-        System.out.println("c");
-        return;
-    }
-
 
 
 }
