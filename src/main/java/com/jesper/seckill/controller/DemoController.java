@@ -103,6 +103,7 @@ public class DemoController {
     @RequestMapping("/db/get")
     @ResponseBody
     public String getGoodsDetail(String gid){
+        System.out.println("b");
         return null;
     }
 
