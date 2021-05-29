@@ -100,4 +100,10 @@ public class DemoController {
 //        return Result.success(user);
 //    }
 
+    @RequestMapping("/db/get")
+    @ResponseBody
+    public String getGoodsDetail(String gid){
+        return null;
+    }
+
 }
